@@ -1,2 +1,2 @@
-# quantum-tunneling
-in this project i developed i stimulation of quantum tunneling using numpy and matplotlib in one dimension.
+
+in this project i developed i stimulation of quantum tunneling using numpy and matplotlib in one dimension.for this project I worked on under the guidance of Dr. Sanjoy Dutta at NIT Rourkela. I developed a one-dimensional simulation of quantum tunneling using Python libraries like NumPy and Matplotlib for numerical computations and data visualization. This project allowed me to explore the fascinating phenomenon of quantum mechanics, where particles can 'tunnel' through potential barriers—a behavior that has no classical equivalent. Working on this simulation enhanced my understanding of numerical methods in physics and demonstrated the power of computational tools in visualizing complex concepts.
